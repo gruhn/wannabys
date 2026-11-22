@@ -31,5 +31,15 @@
     "images": [
       "assets/artworks/IMG_2952.jpg"
     ]
+  },
+  {
+    "id": "werk-03",
+    "title": "Sanatorium, Georgien 2025",
+    "description": "„Für uns hat die Scheidung zwischen Vergangenheit, Gegenwart und Zukunft nur die Bedeutung einer Illusion.\"\n\nMan möchte flüstern in diesem Raum. Nicht aus Furcht, sondern aus Scham, als stünde man an einem Bett, in dem noch die Wärme eines Menschen liegt.\n\nDenn nur was geliebt wurde kann verfallen. Nur was geglaubt wurde hinterlässt eine Leere. Und vielleicht ist das Erinnern nichts anderes als dieses Dastehen im Halbdunkel vor dem, was war, und die Frage, was als Nächstes von uns zu Stille wird.",
+    "price": 1500000,
+    "date": "2026-11-21",
+    "images": [
+      "assets/artworks/Sanatorium_Georgien_2025.jpg"
+    ]
   }
 ]
