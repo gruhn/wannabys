@@ -30,6 +30,7 @@
     "price": 5000,
     "date": "2026-11-21",
     "images": [
+      "./assets/artworks/tastatur.jpeg"
     ]
   },
   {
@@ -85,7 +86,7 @@
     "price": 2000000,
     "date": "2026-11-21",
     "images": [
-      "assets/artworks/IMG_2951.jpg"
+      "assets/artworks/einhorn.jpeg"
     ]
   },
   {
@@ -94,6 +95,7 @@
     "price": 550000,
     "date": "2026-11-21",
     "images": [
+      "assets/artworks/tomate.jpg"
     ]
   },
   {
@@ -102,6 +104,7 @@
     "price": 25000,
     "date": "2026-11-21",
     "images": [
+      "assets/artworks/werk-12.jpg"
     ]
   }
 ]
